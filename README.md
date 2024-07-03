@@ -2,7 +2,7 @@
 
 Welcome to the Pizza Website! This project is designed to provide users with information about various types of pizzas, recipes, and where to find the best pizza restaurants.
 
-![Pizza Image](path/to/pizza-image.jpg)
+![Pizza Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.southernliving.com%2Frecipes%2Fsupreme-pizza&psig=AOvVaw2_kCoTqa-NPB5zESUopUpH&ust=1720111936700000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjYsrmqi4cDFQAAAAAdAAAAABAE)
 
 ## Table of Contents
 
